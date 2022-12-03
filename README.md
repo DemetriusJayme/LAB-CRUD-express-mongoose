@@ -1,5 +1,7 @@
 # CRUD app com populate (v6)
 
+Demetrius
+
 ## Introdução
 
 Nós aprendemos a como criar um servidor usando `ExpressJS` e como fazer as opeações de CRUD em um banco de dados no `MongoDB` com Mongoose. Essa atividade vai te ajudar a entender o quanto você fixou esses conceitos e como aplicá-los.
