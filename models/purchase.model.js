@@ -8,6 +8,6 @@ const purchaseSchema = new Schema(
   { timestamps: true }
 );
 
-const PurchaseModel = model("Album", purchaseSchema);
+const PurchaseModel = model("Purchase", purchaseSchema);
 
 export default PurchaseModel;
