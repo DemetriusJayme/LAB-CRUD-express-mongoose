@@ -13,6 +13,8 @@ albumRoute.post("/create-album", async (req, res) => {
 
     const newAlbum = await UserAlbum.create(form);
 
+    console.log(newAlbum.title);
+
     return res.status(201).json(newAlbum);
   } catch (error) {
     console.log(error.errors);
